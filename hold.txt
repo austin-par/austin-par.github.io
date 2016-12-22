@@ -52,3 +52,19 @@
             </div>
         </div>
     </section>
+
+
+
+        <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="img-responsive" src="img/logo.png" height="200" width = "500" alt="">
+                    <div class="intro-text">
+                        <span size=>Empowering better relationships &amp; greater impact within our communities</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
